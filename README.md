@@ -2,12 +2,16 @@
 ## Merysah - 120140180
 
 ### Pages
-- Home (Halaman Utama)
-<img src="assets/home.png" width="300px">
-- Detail Item
-<img src="assets/detail.png" width="300px">
-- Profile Mahasiswa
-<img src="assets/profile.png" width="300px">
+<table>
+  <tr>
+    <th>- Home (Halaman Utama)
+<img src="assets/home.png" width="300px"></th>
+    <th>- Detail Item
+<img src="assets/detail.png" width="300px"></th>
+    <th>- Profile Mahasiswa
+<img src="assets/profile.png" width="300px"></th>
+  </tr>
+</table>
 
 ### Daftar package yang digunakan (expo)
 - expo-app-loading
