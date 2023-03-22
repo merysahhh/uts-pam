@@ -3,11 +3,11 @@
 
 ### Pages
 - Home (Halaman Utama)
-<img src="assets/home.png" width="100%">
+<img src="assets/home.png" width="300px">
 - Detail Item
-<img src="assets/detail.png" width="100%">
+<img src="assets/detail.png" width="300px">
 - Profile Mahasiswa
-<img src="assets/profile.png" width="100%">
+<img src="assets/profile.png" width="300px">
 
 ### Daftar package yang digunakan (expo)
 - expo-app-loading
