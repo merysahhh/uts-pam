@@ -7,7 +7,7 @@
     <th>- Home (Halaman Utama)
 <img src="assets/home.png" width="300px"></th>
     <th>- Detail Item
-<img src="assets/detail.png" width="350px"></th>
+<img src="assets/detail.png" width="370px"></th>
     <th>- Profile Mahasiswa
 <img src="assets/profile.png" width="300px"></th>
   </tr>
